@@ -1,1 +1,1 @@
-HNG stage two live link: http://github.com/Abass1998/hng
+HNG stage two live link: https://abass1998.github.io/hng/
